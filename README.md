@@ -24,8 +24,8 @@ Playbook-driven data mapping for merchant acquiring systems. Generates field-lev
   
 **Backend:** C# / .NET, ASP.NET Core    
 **Frontend:** Angular, TypeScript    
-**Data & AI:** model training pipelines, AI-assisted mapping/suggestion engines    
-**Tooling:** CLI apps, Docker, CI/CD  
+**Data & AI:** ML.Net, model training pipelines, AI-assisted mapping/suggestion engines, Google Cloud Vertex AI    
+
 
 ## Connect  
   
