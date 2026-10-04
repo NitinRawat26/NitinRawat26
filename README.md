@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nitin Rawat  
 
-<!--
-**NitinRawat26/NitinRawat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on trustworthy, explainable infrastructure for merchant acquiring, financial-risk assessment, and enterprise data interoperability. 
+  
+## What I work on  
 
-Here are some ideas to get you started:
+I am working at the intersection of financial technology, explainable machine learning, data governance, and semantic interoperability. 
+My interests include responsible AI in financial services, explainable and auditable decision systems, KYB, KYC, Risk, Compliance and credit underwriting.
+My technical work spans C#/.NET, ASP.NET Core, ML.NET, Angular, TypeScript, SQL, REST APIs, Google cloud, document engineering, and containerized deployment.
+  
+## Featured projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [MerchantIntelligence](https://github.com/NitinRawat26/MerchantIntelligence)  
+Merchant intelligence platform — profiling, risk assessment, and behavioral analysis. Includes credit decisioning (with a model trainer), KYB, MCC validation data  pipelines, and underwriting services.  
+  
+`.NET · ML/model training · data pipelines · REST APIs`  
+
+### [MapWright](https://github.com/NitinRawat26/MapWright)  
+Playbook-driven data mapping for merchant acquiring systems. Generates field-level mapping documents between systems exchanging merchant application data (sales →  underwriting, etc.) with replay, validation, and optional AI-assisted suggestions.  
+  
+`.NET · ASP.NET Core · Angular · CLI tooling · YAML playbooks`  
+  
+## Tech stack  
+  
+**Backend:** C# / .NET, ASP.NET Core    
+**Frontend:** Angular, TypeScript    
+**Data & AI:** model training pipelines, AI-assisted mapping/suggestion engines    
+**Tooling:** CLI apps, Docker, CI/CD  
+
+## Connect  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin_Rawat-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-rawat26/)  
